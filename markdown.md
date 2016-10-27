@@ -58,6 +58,8 @@ Here's code formatting! You add backticks!
 
 Smart quotes in pandoc are done by adding the smart `-S` command!
 
+Markdown supports 6 headers!
+
 # This is heading one!
 ## This is heading two!
 ### This is heading three!
@@ -96,12 +98,9 @@ $$ \frac{\frac{1}{x}+\frac{14}{y}}{x-z}\sqrt[x]{1+x+y+134+x^7+x^6+\dots+x^z} $$
 
 
 
-********
 
-##### Here's a page of markdown memes!
 
-![meme](/home/ubuntu/workspace/assignment-3-jamiemramos/media/markdown.jpg)
-![meme](/home/ubuntu/workspace/assignment-3-jamiemramos/media/markdown1.jpg)
-![meme](/home/ubuntu/workspace/assignment-3-jamiemramos/media/markdown2.jpg)
-![meme](/home/ubuntu/workspace/assignment-3-jamiemramos/media/markdown3.jpg)
+##### Here's a markdown meme!
+
+![MEME!!!](/home/ubuntu/workspace/assignment-3-jamiemramos/media/markdown3.jpg)
 
